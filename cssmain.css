@@ -1,24 +1,60 @@
-.sidakako{
+
+    height: 990px;
+  }
+
+  footer {
+    text-align: center;
+  }
+}
+
+@media all and (max-width: 750px) {
+  .top-wrapper h1 {
+    font-size: 32px;
+  }
+
+  .heading h2 {
+    font-size: 20px;
+  }
+}
+
+@media all and (max-width: 670px) {
+  .header-right {
+    display: none;
+  }
+
+  .menu-icon {
+    display: block;
+  }
+
+  .top-wrapper .btn {
     width: 100%;
-	height: 482px;
-	position: relative;
-    background: url(https://www.daikinchi.com/wp/wp-content/uploads/2017/09/DSC_0179-2.jpg);
-    background-size:cover;
-}
-.sidakako h1{
-    padding-left: 30px;
-    padding-top: 30px;
-    padding-bottom: 10px
-        
-}
+  }
 
-li{
-    color:
-    padding-left: 60px;
-    padding-bottom: 10px
-    
-}
+  .twitter {
+    margin-top: 10px;
+  }
 
-ul {
-  list-style: none;
+  .top-wrapper {
+    text-align: left;
+  }
+
+  .top-wrapper h1 {
+    font-size: 24px;
+  }
+
+  .top-wrapper p {
+    font-size: 14px;
+  }
+
+  .lesson {
+    width: 100%;
+  }
+
+  .lesson-wrapper {
+    height: 1700px;
+  }
+
+  .message-wrapper .btn {
+    width: 100%;
+  }
 }
