@@ -1,0 +1,24 @@
+.sidakako{
+    width: 100%;
+	height: 482px;
+	position: relative;
+    background: url(https://www.daikinchi.com/wp/wp-content/uploads/2017/09/DSC_0179-2.jpg);
+    background-size:cover;
+}
+.sidakako h1{
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 10px
+        
+}
+
+li{
+    color:
+    padding-left: 60px;
+    padding-bottom: 10px
+    
+}
+
+ul {
+  list-style: none;
+}
